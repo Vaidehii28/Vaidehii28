@@ -1,4 +1,4 @@
-### Hi there 👋
+### ABOUT ME :writing_hand:
 
 [![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
 🌱 I’m currently learning WordPress, Machine Learning, IoT. <br>
