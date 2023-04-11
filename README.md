@@ -7,6 +7,9 @@
 <a href="https://www.linkedin.com/in/vaidehi-mahyavanshi-04b920204/" target="_blank">
 <img src="https://github.com/DwinaTech/public-images/blob/main/linkedin-icon.png" alt="LinkedIn logo"/>
 </a>
+<a href="https://www.instagram.com/vaidehii__/" target="_blank">
+<img src="https://github.com/DwinaTech/public-images/blob/main/instagram-icon.png" alt="Instagram logo"/>
+</a>
 <a href="https://twitter.com/itsvaidehii?t=FzoATgZP09i95tEhu5m8yA&s=08" target="_blank">
 <img src="https://github.com/DwinaTech/public-images/blob/main/twitter-icon.png" alt="Twitter logo"/>
 </a>
