@@ -6,6 +6,9 @@
 🔭 I’m currently working on Sentiment Analysis ML Project. <br>
 📫 How to reach me: vaidehi282002@gmail.com
 
+<p> My Github Stats: </p> <br>
+![Vaidehii28's Demo Github stats](https://github-readme-stats.vercel.app/api?username=Vaidehii28&hide=contribs,prs)
+
 ## LETS'S CONNECT :v:: <br>
 <a href="https://www.linkedin.com/in/vaidehi-mahyavanshi-04b920204/" target="_blank">
 <img src="https://github.com/DwinaTech/public-images/blob/main/linkedin-icon.png" alt="LinkedIn logo"/>
