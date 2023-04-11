@@ -1,5 +1,7 @@
 ### Hi there 👋
-
+🌱 I’m currently learning WordPress, Machine Learning, IoT.
+🔭 I’m currently working on Sentiment Analysis ML Project.
+📫 How to reach me: vaidehi282002@gmail.com
 <!--
 **Vaidehii28/Vaidehii28** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
