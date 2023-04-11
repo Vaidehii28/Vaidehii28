@@ -1,6 +1,6 @@
 ### ABOUT ME :writing_hand:
 
-[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
+<img src="https://raw.githubusercontent.com/Vaidehii28/Vaidehii28/master/Blue Pink Gradient Fashion Banner.png" alt="banner that says Vaidehi Mahyavanshi - Software Engineer and Web Developer">
 🌱 I’m currently learning WordPress, Machine Learning, IoT. <br>
 🔭 I’m currently working on Sentiment Analysis ML Project. <br>
 📫 How to reach me: vaidehi282002@gmail.com
