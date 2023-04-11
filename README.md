@@ -5,7 +5,7 @@
 🔭 I’m currently working on Sentiment Analysis ML Project. <br>
 📫 How to reach me: vaidehi282002@gmail.com
 
-## LETS'S CONNECT: <br>
+## LETS'S CONNECT :v:: <br>
 <a href="https://www.linkedin.com/in/vaidehi-mahyavanshi-04b920204/" target="_blank">
 <img src="https://github.com/DwinaTech/public-images/blob/main/linkedin-icon.png" alt="LinkedIn logo"/>
 </a>
