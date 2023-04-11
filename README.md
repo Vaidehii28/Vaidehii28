@@ -6,7 +6,7 @@
 🔭 I’m currently working on Sentiment Analysis ML Project. <br>
 📫 How to reach me: vaidehi282002@gmail.com
 
-<p> My Github Stats: </p> <br>
+### My Github Stats
 ![Vaidehii28's Demo Github stats](https://github-readme-stats.vercel.app/api?username=Vaidehii28&hide=contribs,prs)
 
 ## LETS'S CONNECT :v:: <br>
