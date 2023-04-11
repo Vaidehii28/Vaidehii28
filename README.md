@@ -1,4 +1,6 @@
 ### Hi there 👋
+
+[![Braydon's GitHub Banner](./assets/GitHubHeader.png)](https://braydoncoyer.dev)
 🌱 I’m currently learning WordPress, Machine Learning, IoT. <br>
 🔭 I’m currently working on Sentiment Analysis ML Project. <br>
 📫 How to reach me: vaidehi282002@gmail.com
