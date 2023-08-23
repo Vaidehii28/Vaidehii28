@@ -2,8 +2,8 @@
 <img src="https://raw.githubusercontent.com/Vaidehii28/Vaidehii28/master/Blue Pink Gradient Fashion Banner.png" alt="banner that says Vaidehi Mahyavanshi - Software Engineer and Web Developer">
 <h2> ABOUT ME ✍️: </h2>
 
-🌱 I’m currently learning WordPress, Machine Learning, Artificial Intelligence, NLP. <br>
-🔭 I’m currently working on Sentiment Analysis ML Project. <br>
+🔭 I’m currently working as a Data Scientist Intern @LendingKart, Bengaluru.<br>
+🌱 I’m currently exploring Power BI, Deep Learning, Artificial Intelligence, NLP. <br>
 📫 How to reach me: vaidehi282002@gmail.com
 
 # 📊 GitHub Stats:
